@@ -1,0 +1,508 @@
+2020-08-18 11:59:05,977 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 12:30:51 18/08/2020 IST)
+2020-08-18 11:59:05,993 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 11:59:05,993  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 11:59:06,055 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 11:59:06,071  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 11:59:09,808 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 12:30:51 18/08/2020 IST)
+2020-08-18 11:59:09,862 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 11:59:09,864  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 11:59:09,934 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 11:59:09,938  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 11:59:13,960  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-18 11:59:16,612  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-18 11:59:29,306 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 12:30:51 18/08/2020 IST)
+2020-08-18 11:59:29,306 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 11:59:29,306  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 11:59:29,353 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 11:59:29,353  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 11:59:35,345  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-18 12:05:45,539 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 12:30:51 18/08/2020 IST)
+2020-08-18 12:05:45,539 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 12:05:45,555  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 12:05:45,586 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 12:05:45,586  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 12:05:51,309  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-18 12:05:53,583  INFO [main] nopCommerceSDET:41 - Email entered
+2020-08-18 12:05:53,718  INFO [main] nopCommerceSDET:43 - Email submitted
+2020-08-18 12:05:53,720  INFO [main] nopCommerceSDET:48 - Password cleared
+2020-08-18 12:05:53,800  INFO [main] nopCommerceSDET:50 - Password submitted
+2020-08-18 12:05:53,885  INFO [main] nopCommerceSDET:56 - Login after credentials are submitted
+2020-08-18 12:06:00,003  INFO [main] nopCommerceSDET:62 - Check whether login is successful
+2020-08-18 17:53:45,784 DEBUG [main] ResolutionCache:157 - Removing resolution chrome=84 from cache (expired on Tue Aug 18 12:30:51 IST 2020)
+2020-08-18 17:53:45,812 DEBUG [main] Shell:54 - Running command on the shell: [wmic.exe, datafile, where, name='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', get, Version, /value]
+2020-08-18 17:53:47,495 DEBUG [main] Shell:56 - Result: Version=84.0.4147.125
+2020-08-18 17:53:47,495 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 17:53:47,503  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 17:53:47,511 DEBUG [main] ResolutionCache:121 - Storing resolution chrome=84 in cache (valid until 18:53:47 18/08/2020 IST)
+2020-08-18 17:53:47,696 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 17:53:47,704  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 17:53:51,109 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:53:47 18/08/2020 IST)
+2020-08-18 17:53:51,128 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 17:53:51,130  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 17:53:51,217 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 17:53:51,220  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 17:53:56,660  INFO [main] nopCommerceSDET:53 - Application launched
+2020-08-18 17:53:59,152  INFO [main] nopCommerceSDET:53 - Application launched
+2020-08-18 18:00:50,471 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:53:47 18/08/2020 IST)
+2020-08-18 18:00:50,485 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 11:30:51 19/08/2020 IST)
+2020-08-18 18:00:50,486  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-18 18:00:50,523 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-18 18:00:50,523  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-18 18:00:56,763  INFO [main] nopCommerceSDET:53 - Application launched
+2020-08-18 18:00:59,082  INFO [main] nopCommerceSDET:62 - Email entered
+2020-08-18 18:00:59,231  INFO [main] nopCommerceSDET:64 - Email submitted
+2020-08-18 18:00:59,235  INFO [main] nopCommerceSDET:69 - Password cleared
+2020-08-18 18:00:59,374  INFO [main] nopCommerceSDET:71 - Password submitted
+2020-08-18 18:00:59,479  INFO [main] nopCommerceSDET:77 - Login after credentials are submitted
+2020-08-18 18:01:07,605  INFO [main] nopCommerceSDET:83 - Check whether login is successful
+2020-08-19 12:04:18,574 DEBUG [main] ResolutionCache:157 - Removing resolution chrome=84 from cache (expired on Tue Aug 18 18:53:47 IST 2020)
+2020-08-19 12:04:18,617 DEBUG [main] Shell:54 - Running command on the shell: [wmic.exe, datafile, where, name='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', get, Version, /value]
+2020-08-19 12:04:18,993 DEBUG [main] Shell:56 - Result: Version=84.0.4147.125
+2020-08-19 12:04:18,995 DEBUG [main] ResolutionCache:157 - Removing resolution chrome84=84.0.4147.30 from cache (expired on Wed Aug 19 11:30:51 IST 2020)
+2020-08-19 12:04:19,013 DEBUG [main] InternalHttpClient:172 - ex-00000001: preparing request execution
+2020-08-19 12:04:19,026 DEBUG [main] RequestAddCookies:114 - Cookie spec selected: strict
+2020-08-19 12:04:19,038 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2020-08-19 12:04:19,039 DEBUG [main] ProtocolExec:158 - ex-00000001: target auth state: UNCHALLENGED
+2020-08-19 12:04:19,040 DEBUG [main] ProtocolExec:164 - ex-00000001: proxy auth state: UNCHALLENGED
+2020-08-19 12:04:19,041 DEBUG [main] ConnectExec:116 - ex-00000001: acquiring connection with route {s}->https://chromedriver.storage.googleapis.com:443
+2020-08-19 12:04:19,042 DEBUG [main] InternalHttpClient:101 - ex-00000001: acquiring endpoint (3 MINUTES)
+2020-08-19 12:04:19,044 DEBUG [main] PoolingHttpClientConnectionManager:261 - ex-00000001: endpoint lease request (3 MINUTES) [route: {s}->https://chromedriver.storage.googleapis.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+2020-08-19 12:04:19,055 DEBUG [main] PoolingHttpClientConnectionManager:287 - ex-00000001: endpoint leased [route: {s}->https://chromedriver.storage.googleapis.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+2020-08-19 12:04:19,069 DEBUG [main] PoolingHttpClientConnectionManager:322 - ex-00000001: acquired ep-00000000
+2020-08-19 12:04:19,069 DEBUG [main] InternalHttpClient:120 - ex-00000001: acquired endpoint ep-00000000
+2020-08-19 12:04:19,069 DEBUG [main] ConnectExec:123 - ex-00000001: opening connection {s}->https://chromedriver.storage.googleapis.com:443
+2020-08-19 12:04:19,082 DEBUG [main] InternalHttpClient:162 - ep-00000000: connecting endpoint (30 SECONDS)
+2020-08-19 12:04:19,083 DEBUG [main] PoolingHttpClientConnectionManager:410 - ep-00000000: connecting endpoint to https://chromedriver.storage.googleapis.com:443 (30 SECONDS)
+2020-08-19 12:04:19,146 DEBUG [main] DefaultHttpClientConnectionOperator:145 - http-outgoing-0: connecting to chromedriver.storage.googleapis.com/216.58.197.80:443
+2020-08-19 12:04:19,146 DEBUG [main] SSLConnectionSocketFactory:214 - Connecting socket to chromedriver.storage.googleapis.com/216.58.197.80:443 with timeout 30 SECONDS
+2020-08-19 12:04:19,622 DEBUG [main] SSLConnectionSocketFactory:270 - Enabled protocols: [TLSv1.3, TLSv1.2]
+2020-08-19 12:04:19,622 DEBUG [main] SSLConnectionSocketFactory:271 - Enabled cipher suites:[TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2020-08-19 12:04:19,624 DEBUG [main] SSLConnectionSocketFactory:275 - Starting handshake
+2020-08-19 12:04:19,830 DEBUG [main] SSLConnectionSocketFactory:58 - Secure session established
+2020-08-19 12:04:19,830 DEBUG [main] SSLConnectionSocketFactory:59 -  negotiated protocol: TLSv1.3
+2020-08-19 12:04:19,837 DEBUG [main] SSLConnectionSocketFactory:60 -  negotiated cipher suite: TLS_AES_256_GCM_SHA384
+2020-08-19 12:04:19,842 DEBUG [main] SSLConnectionSocketFactory:70 -  peer principal: CN=*.storage.googleapis.com, O=Google LLC, L=Mountain View, ST=California, C=US
+2020-08-19 12:04:19,843 DEBUG [main] SSLConnectionSocketFactory:79 -  peer alternative names: [*.storage.googleapis.com, *.appspot.com.storage.googleapis.com, *.commondatastorage.googleapis.com, *.content-storage-download.googleapis.com, *.content-storage-upload.googleapis.com, *.content-storage.googleapis.com, *.googleapis.com, *.storage-download.googleapis.com, *.storage-upload.googleapis.com, *.storage.select.googleapis.com, commondatastorage.googleapis.com, storage.googleapis.com, storage.select.googleapis.com, unfiltered.news]
+2020-08-19 12:04:19,844 DEBUG [main] SSLConnectionSocketFactory:83 -  issuer principal: CN=GTS CA 1O1, O=Google Trust Services, C=US
+2020-08-19 12:04:19,849 DEBUG [main] DefaultHttpClientConnectionOperator:151 - http-outgoing-0: connection established 192.168.0.104:49933<->216.58.197.80:443
+2020-08-19 12:04:19,849 DEBUG [main] PoolingHttpClientConnectionManager:421 - ep-00000000: connected http-outgoing-0
+2020-08-19 12:04:19,851 DEBUG [main] InternalHttpClient:166 - ep-00000000: endpoint connected
+2020-08-19 12:04:19,855 DEBUG [main] MainClientExec:102 - ex-00000001: executing GET /LATEST_RELEASE_84 HTTP/1.1
+2020-08-19 12:04:19,855 DEBUG [main] InternalHttpClient:218 - ep-00000000: start execution ex-00000001
+2020-08-19 12:04:19,855 DEBUG [main] PoolingHttpClientConnectionManager:598 - ep-00000000: executing exchange ex-00000001 over http-outgoing-0
+2020-08-19 12:04:19,864 DEBUG [main] headers:169 - http-outgoing-0 >> GET /LATEST_RELEASE_84 HTTP/1.1
+2020-08-19 12:04:19,865 DEBUG [main] headers:172 - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+2020-08-19 12:04:19,866 DEBUG [main] headers:172 - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+2020-08-19 12:04:19,866 DEBUG [main] headers:172 - http-outgoing-0 >> cache-control: max-age=0
+2020-08-19 12:04:19,868 DEBUG [main] headers:172 - http-outgoing-0 >> Host: chromedriver.storage.googleapis.com
+2020-08-19 12:04:19,869 DEBUG [main] headers:172 - http-outgoing-0 >> Connection: keep-alive
+2020-08-19 12:04:19,870 DEBUG [main] wire:92 - http-outgoing-0 >> "GET /LATEST_RELEASE_84 HTTP/1.1[\r][\n]"
+2020-08-19 12:04:19,871 DEBUG [main] wire:92 - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+2020-08-19 12:04:19,871 DEBUG [main] wire:92 - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+2020-08-19 12:04:19,871 DEBUG [main] wire:92 - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+2020-08-19 12:04:19,872 DEBUG [main] wire:92 - http-outgoing-0 >> "Host: chromedriver.storage.googleapis.com[\r][\n]"
+2020-08-19 12:04:19,872 DEBUG [main] wire:92 - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+2020-08-19 12:04:19,874 DEBUG [main] wire:92 - http-outgoing-0 >> "[\r][\n]"
+2020-08-19 12:04:19,895 DEBUG [main] wire:92 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2020-08-19 12:04:19,896 DEBUG [main] wire:92 - http-outgoing-0 << "X-GUploader-UploadID: AAANsUlrsig1BcTvqYpswexPACjlOo7Dle1am9hYK5XC6ujyVgUYM42AIxtg6GSqUupr3Y0LTzBjd3gwR1nXHJ3QGp4[\r][\n]"
+2020-08-19 12:04:19,897 DEBUG [main] wire:92 - http-outgoing-0 << "Expires: Wed, 19 Aug 2020 07:08:38 GMT[\r][\n]"
+2020-08-19 12:04:19,897 DEBUG [main] wire:92 - http-outgoing-0 << "Date: Wed, 19 Aug 2020 06:08:38 GMT[\r][\n]"
+2020-08-19 12:04:19,898 DEBUG [main] wire:92 - http-outgoing-0 << "Last-Modified: Thu, 28 May 2020 21:05:14 GMT[\r][\n]"
+2020-08-19 12:04:19,898 DEBUG [main] wire:92 - http-outgoing-0 << "ETag: "f90fc89bccbabdd8582026a34268cdaf"[\r][\n]"
+2020-08-19 12:04:19,898 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-generation: 1590699914269125[\r][\n]"
+2020-08-19 12:04:19,899 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-metageneration: 1[\r][\n]"
+2020-08-19 12:04:19,900 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-stored-content-encoding: identity[\r][\n]"
+2020-08-19 12:04:19,900 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-stored-content-length: 12[\r][\n]"
+2020-08-19 12:04:19,901 DEBUG [main] wire:92 - http-outgoing-0 << "Content-Type: text/plain[\r][\n]"
+2020-08-19 12:04:19,902 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-hash: crc32c=BKzR+w==[\r][\n]"
+2020-08-19 12:04:19,903 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-hash: md5=+Q/Im8y6vdhYICajQmjNrw==[\r][\n]"
+2020-08-19 12:04:19,903 DEBUG [main] wire:92 - http-outgoing-0 << "x-goog-storage-class: STANDARD[\r][\n]"
+2020-08-19 12:04:19,903 DEBUG [main] wire:92 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+2020-08-19 12:04:19,903 DEBUG [main] wire:92 - http-outgoing-0 << "Content-Length: 12[\r][\n]"
+2020-08-19 12:04:19,905 DEBUG [main] wire:92 - http-outgoing-0 << "Server: UploadServer[\r][\n]"
+2020-08-19 12:04:19,905 DEBUG [main] wire:92 - http-outgoing-0 << "Cache-Control: public, max-age=3600[\r][\n]"
+2020-08-19 12:04:19,906 DEBUG [main] wire:92 - http-outgoing-0 << "Age: 1541[\r][\n]"
+2020-08-19 12:04:19,906 DEBUG [main] wire:92 - http-outgoing-0 << "Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"[\r][\n]"
+2020-08-19 12:04:19,906 DEBUG [main] wire:92 - http-outgoing-0 << "[\r][\n]"
+2020-08-19 12:04:19,907 DEBUG [main] wire:106 - http-outgoing-0 << "84.0.4147.30"
+2020-08-19 12:04:19,915 DEBUG [main] headers:158 - http-outgoing-0 << HTTP/1.1 200 OK
+2020-08-19 12:04:19,915 DEBUG [main] headers:161 - http-outgoing-0 << X-GUploader-UploadID: AAANsUlrsig1BcTvqYpswexPACjlOo7Dle1am9hYK5XC6ujyVgUYM42AIxtg6GSqUupr3Y0LTzBjd3gwR1nXHJ3QGp4
+2020-08-19 12:04:19,916 DEBUG [main] headers:161 - http-outgoing-0 << Expires: Wed, 19 Aug 2020 07:08:38 GMT
+2020-08-19 12:04:19,917 DEBUG [main] headers:161 - http-outgoing-0 << Date: Wed, 19 Aug 2020 06:08:38 GMT
+2020-08-19 12:04:19,917 DEBUG [main] headers:161 - http-outgoing-0 << Last-Modified: Thu, 28 May 2020 21:05:14 GMT
+2020-08-19 12:04:19,917 DEBUG [main] headers:161 - http-outgoing-0 << ETag: "f90fc89bccbabdd8582026a34268cdaf"
+2020-08-19 12:04:19,918 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-generation: 1590699914269125
+2020-08-19 12:04:19,919 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-metageneration: 1
+2020-08-19 12:04:19,919 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-stored-content-encoding: identity
+2020-08-19 12:04:19,920 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-stored-content-length: 12
+2020-08-19 12:04:19,921 DEBUG [main] headers:161 - http-outgoing-0 << Content-Type: text/plain
+2020-08-19 12:04:19,922 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-hash: crc32c=BKzR+w==
+2020-08-19 12:04:19,923 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-hash: md5=+Q/Im8y6vdhYICajQmjNrw==
+2020-08-19 12:04:19,924 DEBUG [main] headers:161 - http-outgoing-0 << x-goog-storage-class: STANDARD
+2020-08-19 12:04:19,924 DEBUG [main] headers:161 - http-outgoing-0 << Accept-Ranges: bytes
+2020-08-19 12:04:19,925 DEBUG [main] headers:161 - http-outgoing-0 << Content-Length: 12
+2020-08-19 12:04:19,926 DEBUG [main] headers:161 - http-outgoing-0 << Server: UploadServer
+2020-08-19 12:04:19,927 DEBUG [main] headers:161 - http-outgoing-0 << Cache-Control: public, max-age=3600
+2020-08-19 12:04:19,927 DEBUG [main] headers:161 - http-outgoing-0 << Age: 1541
+2020-08-19 12:04:19,927 DEBUG [main] headers:161 - http-outgoing-0 << Alt-Svc: h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+2020-08-19 12:04:19,943 DEBUG [main] MainClientExec:126 - ex-00000001: connection can be kept alive for 3 MINUTES
+2020-08-19 12:04:19,948 DEBUG [main] InternalHttpClient:260 - ep-00000000: releasing valid endpoint
+2020-08-19 12:04:19,948 DEBUG [main] PoolingHttpClientConnectionManager:352 - ep-00000000: releasing endpoint
+2020-08-19 12:04:19,954 DEBUG [main] PoolingHttpClientConnectionManager:371 - ep-00000000: connection http-outgoing-0 can be kept alive for 3 MINUTES
+2020-08-19 12:04:19,955 DEBUG [main] PoolingHttpClientConnectionManager:385 - ep-00000000: connection released [route: {s}->https://chromedriver.storage.googleapis.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+2020-08-19 12:04:19,955 DEBUG [main] VersionDetector:163 - Latest version of chromedriver according to https://chromedriver.storage.googleapis.com/LATEST_RELEASE_84 is 84.0.4147.30
+2020-08-19 12:04:19,957  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 12:04:19,961 DEBUG [main] ResolutionCache:121 - Storing resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 12:04:19,965 DEBUG [main] ResolutionCache:121 - Storing resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 12:04:19,989 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 12:04:19,991  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 12:04:26,330  INFO [main] nopCommerceSDET:33 - Application launched
+2020-08-19 12:04:28,514  INFO [main] nopCommerceSDET:40 - Email entered
+2020-08-19 12:09:18,382 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 12:09:18,388 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 12:09:18,388  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 12:09:18,454 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 12:09:18,454  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 12:09:24,333  INFO [main] nopCommerceSDET:35 - Application launched
+2020-08-19 12:09:26,538  INFO [main] nopCommerceSDET:42 - Email entered
+2020-08-19 12:20:10,808 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 12:20:10,820 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 12:20:10,820  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 12:20:10,843 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 12:20:10,859  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 12:20:17,050  INFO [main] nopCommerceSDET:38 - Application launched
+2020-08-19 12:20:19,265  INFO [main] nopCommerceSDET:45 - Email entered
+2020-08-19 12:23:06,685 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 12:23:06,693 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 12:23:06,695  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 12:23:06,731 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 12:23:06,733  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 12:23:12,765  INFO [main] nopCommerceSDET:39 - Application launched
+2020-08-19 12:23:14,934  INFO [main] nopCommerceSDET:46 - Email entered
+2020-08-19 12:23:15,194  INFO [main] nopCommerceSDET:52 - Password cleared
+2020-08-19 12:23:15,194  INFO [main] nopCommerceSDET:53 - Password submitted
+2020-08-19 12:23:15,387  INFO [main] nopCommerceSDET:59 - Login after credentials are submitted
+2020-08-19 12:23:21,155  INFO [main] nopCommerceSDET:65 - Check whether login is successful
+2020-08-19 12:56:03,761 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 12:56:03,776 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 12:56:03,776  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 12:56:03,839 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 12:56:03,839  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 12:56:09,916  INFO [main] nopCommerceSDET:40 - Application launched
+2020-08-19 12:56:12,081  INFO [main] nopCommerceSDET:47 - Email entered
+2020-08-19 12:56:12,339  INFO [main] nopCommerceSDET:53 - Password cleared
+2020-08-19 12:56:12,339  INFO [main] nopCommerceSDET:54 - Password submitted
+2020-08-19 12:56:12,510  INFO [main] nopCommerceSDET:60 - Login after credentials are submitted
+2020-08-19 12:56:18,071  INFO [main] nopCommerceSDET:66 - Check whether login is successful
+2020-08-19 13:00:07,031 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 13:00:07,031 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:00:07,046  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:00:07,109 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:00:07,109  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:00:14,530 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 13:04:19 19/08/2020 IST)
+2020-08-19 13:00:14,533 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:00:14,533  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:00:14,540 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:00:14,556  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:00:19,523  INFO [main] nopCommerceSDET:40 - Application launched
+2020-08-19 13:00:21,703  INFO [main] nopCommerceSDET:47 - Email entered
+2020-08-19 13:00:21,944  INFO [main] nopCommerceSDET:53 - Password cleared
+2020-08-19 13:00:21,944  INFO [main] nopCommerceSDET:54 - Password submitted
+2020-08-19 13:00:22,119  INFO [main] nopCommerceSDET:60 - Login after credentials are submitted
+2020-08-19 13:00:28,809  INFO [main] nopCommerceSDET:66 - Check whether login is successful
+2020-08-19 13:15:50,186 DEBUG [main] ResolutionCache:157 - Removing resolution chrome=84 from cache (expired on Wed Aug 19 13:04:19 IST 2020)
+2020-08-19 13:15:50,202 DEBUG [main] Shell:54 - Running command on the shell: [wmic.exe, datafile, where, name='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', get, Version, /value]
+2020-08-19 13:15:50,608 DEBUG [main] Shell:56 - Result: Version=84.0.4147.125
+2020-08-19 13:15:50,608 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:15:50,608  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:15:50,608 DEBUG [main] ResolutionCache:121 - Storing resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:15:50,624 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:15:50,639  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:16:04,558 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:16:04,558 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:16:04,558  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:16:04,574 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:16:04,574  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:16:11,874  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:16:11,877  INFO [main] nopCommerceSDET:39 - Email entered
+2020-08-19 13:16:12,097  INFO [main] nopCommerceSDET:45 - Password cleared
+2020-08-19 13:16:12,098  INFO [main] nopCommerceSDET:46 - Password submitted
+2020-08-19 13:16:12,252  INFO [main] nopCommerceSDET:52 - Login after credentials are submitted
+2020-08-19 13:16:17,839  INFO [main] nopCommerceSDET:58 - Check whether login is successful
+2020-08-19 13:28:20,519 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:28:20,535 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:28:20,535  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:28:20,582 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:28:20,582  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:28:34,861 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:28:34,864 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:28:34,864  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:28:34,873 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:28:34,875  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:28:42,334  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:28:42,336  INFO [main] nopCommerceSDET:39 - Email entered
+2020-08-19 13:28:42,596  INFO [main] nopCommerceSDET:45 - Password cleared
+2020-08-19 13:28:42,597  INFO [main] nopCommerceSDET:46 - Password submitted
+2020-08-19 13:28:42,801  INFO [main] nopCommerceSDET:52 - Login after credentials are submitted
+2020-08-19 13:28:49,233  INFO [main] nopCommerceSDET:58 - Check whether login is successful
+2020-08-19 13:30:27,330 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:30:27,346 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:30:27,346  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:30:27,409 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:30:27,409  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:30:35,238 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:30:35,238 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:30:35,238  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:30:35,254 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:30:35,254  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:30:42,479  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:30:42,482  INFO [main] nopCommerceSDET:39 - Email entered
+2020-08-19 13:30:42,776  INFO [main] nopCommerceSDET:45 - Password cleared
+2020-08-19 13:30:42,777  INFO [main] nopCommerceSDET:46 - Password submitted
+2020-08-19 13:30:43,044  INFO [main] nopCommerceSDET:52 - Login after credentials are submitted
+2020-08-19 13:30:47,985  INFO [main] nopCommerceSDET:58 - Check whether login is successful
+2020-08-19 13:38:25,428 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:38:25,444 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:38:25,444  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:38:25,491 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:38:25,506  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:38:33,513  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:38:33,513  INFO [main] nopCommerceSDET:39 - Email entered
+2020-08-19 13:38:33,732  INFO [main] nopCommerceSDET:45 - Password cleared
+2020-08-19 13:38:33,733  INFO [main] nopCommerceSDET:46 - Password submitted
+2020-08-19 13:38:33,890  INFO [main] nopCommerceSDET:52 - Login after credentials are submitted
+2020-08-19 13:38:39,815  INFO [main] nopCommerceSDET:58 - Check whether login is successful
+2020-08-19 13:38:40,743 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:38:40,743 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:38:40,743  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:38:40,743 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:38:40,758  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:39:52,645 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:39:52,661 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:39:52,661  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:39:52,723 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:39:52,723  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:40:00,737  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:40:00,737  INFO [main] nopCommerceSDET:37 - Email entered
+2020-08-19 13:40:00,960  INFO [main] nopCommerceSDET:43 - Password cleared
+2020-08-19 13:40:00,961  INFO [main] nopCommerceSDET:44 - Password submitted
+2020-08-19 13:40:01,205  INFO [main] nopCommerceSDET:50 - Login after credentials are submitted
+2020-08-19 13:40:07,997  INFO [main] nopCommerceSDET:56 - Check whether login is successful
+2020-08-19 13:40:08,859 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:40:08,859 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:40:08,859  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:40:08,859 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:40:08,875  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:41:15,515 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:41:15,515 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:41:15,515  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:41:15,547 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:41:15,562  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:41:23,758  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:41:23,761  INFO [main] nopCommerceSDET:37 - Email entered
+2020-08-19 13:41:23,996  INFO [main] nopCommerceSDET:43 - Password cleared
+2020-08-19 13:41:23,997  INFO [main] nopCommerceSDET:44 - Password submitted
+2020-08-19 13:41:24,172  INFO [main] nopCommerceSDET:50 - Login after credentials are submitted
+2020-08-19 13:41:30,493  INFO [main] nopCommerceSDET:56 - Check whether login is successful
+2020-08-19 13:41:30,663 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:41:30,681 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:41:30,682  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:41:30,693 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:41:30,695  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:48:03,219 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:48:03,250 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:48:03,250  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:48:03,297 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:48:03,328  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:48:11,547  INFO [main] nopCommerceSDET:32 - Application launched
+2020-08-19 13:48:11,547  INFO [main] nopCommerceSDET:37 - Email entered
+2020-08-19 13:48:11,783  INFO [main] nopCommerceSDET:43 - Password cleared
+2020-08-19 13:48:11,783  INFO [main] nopCommerceSDET:44 - Password submitted
+2020-08-19 13:48:11,997  INFO [main] nopCommerceSDET:50 - Login after credentials are submitted
+2020-08-19 13:48:19,518  INFO [main] nopCommerceSDET:56 - Check whether login is successful
+2020-08-19 13:48:19,608 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:48:19,612 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:48:19,612  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:48:19,628 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:48:19,635  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:49:58,466 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:49:58,466 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:49:58,466  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:49:58,513 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:49:58,513  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:50:06,688  INFO [main] nopCommerceSDET:29 - Application launched
+2020-08-19 13:50:06,688  INFO [main] nopCommerceSDET:34 - Email entered
+2020-08-19 13:50:06,901  INFO [main] nopCommerceSDET:40 - Password cleared
+2020-08-19 13:50:06,902  INFO [main] nopCommerceSDET:41 - Password submitted
+2020-08-19 13:50:07,061  INFO [main] nopCommerceSDET:47 - Login after credentials are submitted
+2020-08-19 13:50:13,582  INFO [main] nopCommerceSDET:53 - Check whether login is successful
+2020-08-19 13:50:13,627 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:50:13,629 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:50:13,629  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:50:13,629 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:50:13,629  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:51:29,138 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:51:29,154 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:51:29,169  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:51:29,232 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:51:29,232  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:51:37,244  INFO [main] nopCommerceSDET:29 - Application launched
+2020-08-19 13:51:37,244  INFO [main] nopCommerceSDET:34 - Email entered
+2020-08-19 13:51:37,467  INFO [main] nopCommerceSDET:40 - Password cleared
+2020-08-19 13:51:37,467  INFO [main] nopCommerceSDET:41 - Password submitted
+2020-08-19 13:51:37,623  INFO [main] nopCommerceSDET:47 - Login after credentials are submitted
+2020-08-19 13:51:44,830  INFO [main] nopCommerceSDET:53 - Check whether login is successful
+2020-08-19 13:51:44,878 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:51:44,878 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:51:44,878  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:51:44,893 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:51:44,893  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:58:09,322 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 13:58:09,322 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 13:58:09,337  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 13:58:09,369 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 13:58:09,369  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 13:58:17,260  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 13:58:17,263  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 13:58:17,613  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 13:58:17,613  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 13:58:17,818  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 13:58:24,283  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 14:02:20,290 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 14:15:50 19/08/2020 IST)
+2020-08-19 14:02:20,305 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 14:02:20,321  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 14:02:20,352 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 14:02:20,368  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 14:02:28,232  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 14:02:28,248  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 14:02:28,452  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 14:02:28,452  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 14:02:28,604  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 14:02:35,395  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 15:24:05,265 DEBUG [main] ResolutionCache:157 - Removing resolution chrome=84 from cache (expired on Wed Aug 19 14:15:50 IST 2020)
+2020-08-19 15:24:05,273 DEBUG [main] Shell:54 - Running command on the shell: [wmic.exe, datafile, where, name='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', get, Version, /value]
+2020-08-19 15:24:05,748 DEBUG [main] Shell:56 - Result: Version=84.0.4147.125
+2020-08-19 15:24:05,754 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 15:24:05,756  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 15:24:05,762 DEBUG [main] ResolutionCache:121 - Storing resolution chrome=84 in cache (valid until 16:24:05 19/08/2020 IST)
+2020-08-19 15:24:05,796 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 15:24:05,798  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 15:24:15,682  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 15:24:15,684  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 15:24:15,921  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 15:24:15,922  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 15:24:16,104  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 15:24:22,476  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:36:58,430 DEBUG [main] ResolutionCache:157 - Removing resolution chrome=84 from cache (expired on Wed Aug 19 16:24:05 IST 2020)
+2020-08-19 17:36:58,455 DEBUG [main] Shell:54 - Running command on the shell: [wmic.exe, datafile, where, name='C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe', get, Version, /value]
+2020-08-19 17:36:58,923 DEBUG [main] Shell:56 - Result: Version=84.0.4147.125
+2020-08-19 17:36:58,927 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:36:58,929  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:36:58,934 DEBUG [main] ResolutionCache:121 - Storing resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:36:58,961 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:36:58,967  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:37:07,344  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:37:07,344  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:37:07,635  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:37:07,635  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:37:07,854  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:37:14,594  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:39:34,651 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:39:34,657 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:39:34,657  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:39:34,703 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:39:34,719  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:39:42,977  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:39:42,979  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:39:43,202  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:39:43,202  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:39:43,385  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:39:49,050  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:44:23,116 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:44:23,126 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:44:23,130  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:44:23,171 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:44:23,172  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:44:31,464  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:44:31,470  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:44:31,690  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:44:31,690  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:44:31,864  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:44:38,530  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:46:44,443 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:46:44,458 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:46:44,462  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:46:44,506 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:46:44,506  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:46:53,067  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:46:53,074  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:46:53,314  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:46:53,314  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:46:53,503  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:47:00,002  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:53:06,480 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:53:06,495 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:53:06,503  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:53:06,592 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:53:06,597  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:53:14,906  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:53:14,906  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:53:15,163  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:53:15,163  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:53:15,364  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:53:20,181  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:54:19,846 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:54:19,862 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:54:19,862  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:54:19,904 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:54:19,904  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:54:27,948  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:54:27,960  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:54:28,204  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:54:28,205  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:54:28,393  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:54:33,959  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:55:30,575 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:55:30,589 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:55:30,589  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:55:30,652 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:55:30,661  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:55:38,855  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:55:38,864  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:55:39,079  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:55:39,079  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:55:39,268  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:55:45,357  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 17:56:24,278 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 17:56:24,290 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 17:56:24,290  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 17:56:24,329 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 17:56:24,337  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 17:56:32,843  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 17:56:32,843  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 17:56:33,081  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 17:56:33,081  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 17:56:33,258  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 17:56:38,569  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 18:01:03,854 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 18:01:03,883 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 18:01:03,885  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 18:01:03,916 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 18:01:03,918  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 18:01:12,370  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 18:01:12,382  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 18:01:12,616  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 18:01:12,616  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 18:01:12,839  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 18:01:19,064  INFO [main] nopCommerceSDET:54 - Check whether login is successful
+2020-08-19 18:11:15,367 DEBUG [main] ResolutionCache:182 - Resolution chrome=84 in cache (valid until 18:36:58 19/08/2020 IST)
+2020-08-19 18:11:15,391 DEBUG [main] ResolutionCache:182 - Resolution chrome84=84.0.4147.30 in cache (valid until 12:04:19 20/08/2020 IST)
+2020-08-19 18:11:15,391  INFO [main] WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-19 18:11:15,444 DEBUG [main] WebDriverManager:530 - Driver chromedriver 84.0.4147.30 found in cache
+2020-08-19 18:11:15,448  INFO [main] WebDriverManager:631 - Exporting webdriver.chrome.driver as C:\Users\manis\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-08-19 18:11:23,716  INFO [main] nopCommerceSDET:30 - Application launched
+2020-08-19 18:11:23,719  INFO [main] nopCommerceSDET:35 - Email entered
+2020-08-19 18:11:23,956  INFO [main] nopCommerceSDET:41 - Password cleared
+2020-08-19 18:11:23,956  INFO [main] nopCommerceSDET:42 - Password submitted
+2020-08-19 18:11:24,138  INFO [main] nopCommerceSDET:48 - Login after credentials are submitted
+2020-08-19 18:11:31,149  INFO [main] nopCommerceSDET:54 - Check whether login is successful
