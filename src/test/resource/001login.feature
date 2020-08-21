@@ -1,5 +1,5 @@
 Feature: Login to application
-
+  @login
   Scenario Outline: Login to application
     When user launches the application
     And enters username as "<user>"

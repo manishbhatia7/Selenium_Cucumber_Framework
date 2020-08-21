@@ -11,6 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import pageobjects.addCustomerPage;
+import pageobjects.deleteCustomerPage;
 import pageobjects.loginPage;
 import utlities.readConfig;
 
@@ -19,6 +20,7 @@ public class baseclass {
     public static WebDriver driver;
     public loginPage lp;
     public addCustomerPage ac;
+    public deleteCustomerPage dc;
     readConfig read = new readConfig();
     String url=read.getApplicationUrl();
 

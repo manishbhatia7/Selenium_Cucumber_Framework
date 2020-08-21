@@ -74,7 +74,7 @@ public class add_customer extends baseclass {
 
     @When("I click on save")
     public void i_click_on_save() {
-        ac.save_Data();
+        dc=ac.save_Data();
         
     }
 

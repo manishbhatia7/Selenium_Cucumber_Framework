@@ -9,9 +9,8 @@ import org.testng.annotations.AfterSuite;
 @CucumberOptions(
         features={"..//src/test/resource/"},
         glue={"bindings"},
-        dryRun = true
-
-
+        dryRun = true,
+        plugin ={"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:target/cucumber-reports/report.html"}
 )
 
 public class TestRunner extends baseclass {

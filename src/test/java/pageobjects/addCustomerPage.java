@@ -66,7 +66,7 @@ public class addCustomerPage {
     @CacheLookup
     private WebElement btnSubmit;
 
-    @FindBy(xpath="//h1[contains(text(),'Customers')]")
+    @FindBy(xpath="//div[@class='alert alert-success alert-dismissable']")
     @CacheLookup
     private WebElement msg_Success;
 
@@ -132,12 +132,13 @@ public class addCustomerPage {
     public void assertRegistrationSuccessful()
     {
         Assert.assertTrue(msg_Success.isDisplayed());
-        ldriver.quit();
+
     }
 
-     public void save_Data()
+     public deleteCustomerPage save_Data()
      {
          btnSubmit.click();
+         return new deleteCustomerPage(ldriver);
      }
 
 }
